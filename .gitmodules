@@ -1,0 +1,6 @@
+[submodule "Implementation/TypeScript"]
+	path = Implementation/TypeScript
+	url = https://github.com/MikelSalazar/RML-TypeScript.git
+[submodule "Presentation/Website"]
+	path = Presentation/Website
+	url = https://github.com/MikelSalazar/RML-Website.git
